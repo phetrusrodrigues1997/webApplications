@@ -4,7 +4,7 @@
   "description": "New Server",
   "main": "index.js",
   "dependencies": {
-    "mongoose": "^5.11.15",
+    "mongoose": "^5.11.16",
     "sanitize-html": "^2.3.2"
   },
   "devDependencies": {
